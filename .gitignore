@@ -433,7 +433,7 @@ $RECYCLE.BIN/
 *.sln.iml
 
 ##
-## Visual Studio Code
+## Visual Studio Code   
 ##
 .vscode/*
 !.vscode/settings.json
@@ -442,3 +442,4 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 appsettings.json
+ssl
